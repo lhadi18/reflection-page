@@ -37,6 +37,7 @@ nav ul {
   background: linear-gradient(to right, #4caf50, #81c784);
   border-radius: 8px;
   padding: 10px 0;
+  flex-wrap: wrap; /* Add this line */
 }
 
 nav ul li {
